@@ -1,6 +1,7 @@
 /* Google fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Lora&family=Montserrat:wght@200;300&family=Playfair+Display:wght@400;500&family=Poppins:wght@200&display=swap');
 
+/* Tailwind CSS Plugin */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
